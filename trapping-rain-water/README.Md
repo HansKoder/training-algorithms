@@ -13,11 +13,11 @@ The above elevation map (black section) is represented by array x In this case, 
 x = [0,1,0,2,1,0,1,3,2,1,2,1]
 ```
 
-Example 2:
+### Example 2:
 
-<b> Input: <b/> height = [4,2,0,3,2,5] <br/>
-<b> Output: <b/> 9 <br/>
-
+<b>Input: </b> height = [4,2,0,3,2,5]
+<br/>
+<b> Output: </b> 9
 
 ### Constraints:
 
