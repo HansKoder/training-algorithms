@@ -5,4 +5,5 @@ C
 java:S1170"!Make this final field static too.(¢ó¸‹ûÿÿÿÿ8Ä·Ûßà1
 C
 java:S1170"!Make this final field static too.(ÛÂ¾ùÿÿÿÿ8Ä·Ûßà1
-G	java:S106*"+Replace this use of System.out by a logger.(Šû‰8Ç·Ûßà1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Éõæà1
