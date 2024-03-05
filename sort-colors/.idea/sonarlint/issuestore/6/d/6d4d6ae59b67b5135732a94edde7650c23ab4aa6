@@ -1,0 +1,8 @@
+
+o	java:S116"NRename this field "RED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ó¸‹ûÿÿÿÿ8Ã·Ûßà1
+p	java:S116"ORename this field "BLUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÂ¾ùÿÿÿÿ8Ã·Ûßà1
+C
+java:S1170"!Make this final field static too.(¢ó¸‹ûÿÿÿÿ8Ä·Ûßà1
+C
+java:S1170"!Make this final field static too.(ÛÂ¾ùÿÿÿÿ8Ä·Ûßà1
+G	java:S106*"+Replace this use of System.out by a logger.(Šû‰8Ç·Ûßà1

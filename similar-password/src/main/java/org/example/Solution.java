@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 public class Solution {
 
+    // This algorithm is finished however this code still needs to improve since it is not ideal.
     public int similarPassword (String word) {
         int countOfVowels = 0; // 1
 
