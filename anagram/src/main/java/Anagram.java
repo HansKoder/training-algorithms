@@ -24,6 +24,8 @@ public class Anagram {
                 int low = 0;
                 int high = word.length() - 1;
 
+                HashMap<Integer, Integer> x = new HashMap<>();
+
                 while (low < high) {
                     if (character.equals(word.charAt(low)) || character.equals(word.charAt(high))) {
                         if (lookUp.getOrDefault(character, 0) > 0) {

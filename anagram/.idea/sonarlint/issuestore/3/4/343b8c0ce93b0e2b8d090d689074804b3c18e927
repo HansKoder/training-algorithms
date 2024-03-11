@@ -1,6 +1,10 @@
 
-u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Õ¹´±8Ÿà·²á1
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Õ¹´±8à“éËá1
 7
-java:S1220""Move this file to a named package.8¡à·²á1
+java:S1220""Move this file to a named package.8í“éËá1
 t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ø©—Àùÿÿÿÿ8Ñá·²á1
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ø©—Àùÿÿÿÿ8 œéËá1
+R
+java:S1854"5Remove this useless assignment to local variable "x".(¨áË¡8©œéËá1
+C
+java:S1481"&Remove this unused "x" local variable.(¨áË¡8ùœéËá1
